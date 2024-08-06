@@ -25,7 +25,7 @@ Salesforce Zebra Tables is a Chrome extension that enhances the readability of S
 ## Installation
 Install Salesforce Zebra Tables directly from the Chrome Web Store:
 
-[![Install from Chrome Web Store]](https://chromewebstore.google.com/detail/salesforce-zebra-columns/abceebahiohmfnamldghihajdakflhho?hl=en-US&utm_source=ext_sidebar)
+[Install from Chrome Web Store](https://chromewebstore.google.com/detail/salesforce-zebra-columns/abceebahiohmfnamldghihajdakflhho?hl=en-US&utm_source=ext_sidebar)
 
 Simply click the link above and select **Add to Chrome** to install the extension.
 

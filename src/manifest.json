@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Salesforce Zebra Tables",
+    "version": "1.1",
+    "description": "This extension will add zebra striped rows to Salesforce tables",
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://*.lightning.force.com/lightning/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "48": "icon.png"
+    }
+  }

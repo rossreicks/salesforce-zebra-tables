@@ -1,23 +1,15 @@
 # Salesforce Zebra Tables
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <td>
+<p align="center">
 <img src='./pics/icon.png' >
-    </td>
-  </tr>
-</table>
+</p>
 
 ## Overview
 Salesforce Zebra Tables is a Chrome extension that enhances the readability of Salesforce tables by applying zebra striping to the rows. This feature adds alternate background colors to the rows, improving visual scanning and reducing eye strain during extended work periods.
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <td>
+<p align="center">
 <img src='./pics/rows.png'>
-    </td>
-  </tr>
-</table>
+</p>
 
 
 ## Features
@@ -25,13 +17,9 @@ Salesforce Zebra Tables is a Chrome extension that enhances the readability of S
 - **Customizable Colors:** Users can customize the colors used for the striping to suit their visual preferences or corporate branding.
 - **Easy Toggle:** Enable or disable zebra striping quickly from the Chrome toolbar.
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <td>
+<p align="center">
 <img src='./pics/color-picker.png'>
-    </td>
-  </tr>
-</table>
+</p>
 
 
 ## Installation
